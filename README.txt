@@ -42,7 +42,7 @@ Original String : w3rsource.com
 Codepoint count = 9
  
 
-5. Write a java program to compare two strings lexicographically.  
+    5. Write a java program to compare two strings lexicographically.
 
 Sample Output:
 
